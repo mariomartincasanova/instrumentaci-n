@@ -34,8 +34,8 @@ Este repositorio contiene una colección completa de ejemplos Arduino para crear
 
 ##  Ejemplos Incluidos
 
-| # | Ejemplo | Descripción | Componentes Principales | Dificultad |
-|---|---------|-------------|------------------------|------------|
+| # | Ejemplo | Descripción | Componentes Principales | 
+|---|---------|-------------|------------------------|
 | **01** | [Control de Temperatura](#01-control-de-temperatura) | Algoritmo discontinuo 3 posiciones | DHT22, LEDs, LCD |
 | **02** | [Motor DC con L293D](#02-motor-dc-con-l293d) | Control velocidad y dirección | L293D, Motor DC | 
 | **03** | [Servomotor](#03-servomotor) | Control de posición angular | Servo SG90 | 
