@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+LiquidCrystal
+
+LiquidCrystal
+DHTlib
+Servo
+Stepper
+107-Arduino-Servo-RP2040
